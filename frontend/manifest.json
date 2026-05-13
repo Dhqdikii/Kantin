@@ -1,0 +1,9 @@
+{
+  "name": "Kantin Digital",
+  "short_name": "Kantin",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FF5722",
+  "theme_color": "#FF5722",
+  "icons": []
+}
